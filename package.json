@@ -1,0 +1,19 @@
+{
+    "author": {
+        "name": "Ivan Sergey Glazunov",
+        "email": "isglazunov@gmail.com",
+        "url": "https://github.com/isglazunov"
+    }, 
+    "name": "isg-document",
+    "version": "0.0.1",
+    "keywords": ["document", "object", "underscore", "async", "sync", "isg"],
+    "dependencies": {
+        "lodash": "2.2.1",
+        "isg-events": "0.1.0"
+    },
+    "devDependencies": {
+        "should": "2.0.2",
+        "mocha": "1.13.0",
+        "async": "0.2.9"
+    }
+}
